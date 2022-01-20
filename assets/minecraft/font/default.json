@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "file": "treehouse:font/logo.png",
+            "chars": [
+                "\ue238"
+            ],
+            "height": 52,
+            "ascent": 33,
+            "type": "bitmap"
+        }
+    ]
+}
